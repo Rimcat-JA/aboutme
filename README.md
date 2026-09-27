@@ -1,2 +1,2 @@
 # aboutme
-A discription about me
+Hi, I'm Rimcat, a Japanese university student!
