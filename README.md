@@ -5,7 +5,7 @@ Hi, I'm Rimcat, a Japanese university student!
 
 I am a Japan-based software developer with over three years of professional experience, including contract development work before entering university. Working primarily with Python and TypeScript, I develop AI and LLM-powered automation systems, backend services, web applications, and data processing tools.
 
-**I am available for remote freelance work, with a minimum rate of US$6.40/hour for USD payments or JPY 1,000/hour for JPY payments.**
+**I am available for remote freelance work, with a minimum rate of US$6.40/hour for USD payments or JPY 1,000/hour for JPY payments. (This rate applies only to remote work.)**
 
 Alongside software development, I welcome research, data organization, translation and localization, and ongoing task support. Both small one-off assignments and longer-term projects are welcome, subject to an agreed scope.
 
